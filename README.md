@@ -1,2 +1,2 @@
 # ECE250
-Labs 
+Lab assignments 
